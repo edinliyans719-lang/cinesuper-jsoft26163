@@ -1,9 +1,9 @@
 # cinesuper-jsoft26163
 # 🎬 CineSuper — Mini OTT Movie Database
 
-**Live Demo:** https://YOUR-USERNAME.github.io/cinesuper-YOUR-JSOFT-ID/
+**Live Demo:** https://ediniliyans719-lang.github.io/cinesuper-YOUR-JSOFT-ID/
 
-**Student:** YOUR NAME | **JSOFT ID:** YOUR JSOFT ID
+**Student:** edin liyans | **JSOFT ID:** jsoft261623
 **Institution:** Jain School of Future Technology
 **Course:** Database Management Systems | **Faculty:** Sathish Kumar M
 
